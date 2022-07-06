@@ -33,10 +33,10 @@ GET​​ ​​https://images-api.nasa.gov/search ​Params: ​​q
 ## How to run the App:
 
 After cloning the app using `git clone`
-Run:
-`$npm install` to install dependencies
-`$npm test` to test the app
-`$npm start` to run the app in the browser
+Run:\
+`$npm install` to install dependencies\
+`$npm test` to test the app\
+`$npm start` to run the app in the browser\
 
 ## If I had more time...
 
