@@ -12,9 +12,12 @@ GET​​ ​​https://images-api.nasa.gov/search ​Params: ​​q
 
 ## Images
 
-Desktop Version:\
+### Desktop Version:\
+
 ![desktop version](./README_images/desktopTechtest.png)
-Mobile Version:\
+
+### Mobile Version:\
+
 ![mobile version](/README_images/mobileTechtest.png)
 
 ## Building Process
