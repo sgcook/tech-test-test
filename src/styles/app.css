@@ -4,9 +4,18 @@
 }
 
 .nasa-logo {
-  margin-right: 250px;
-  margin-left: 250px;
+  margin-right: 25vw;
+  margin-left: 25vw;
   margin-bottom: 0;
-  height: 250px;
+  height: 20vw;
   width: auto;
+}
+
+/* Media query */
+
+@media only screen and (max-width: 808px) {
+  .nasa-logo {
+    height: 30vw;
+    margin-bottom: 5vw;
+  }
 }

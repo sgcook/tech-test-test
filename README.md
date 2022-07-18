@@ -13,6 +13,7 @@ GET​​ ​​https://images-api.nasa.gov/search ​Params: ​​q
 ## Images
 
 ![desktop version](./README_images/desktopTechtest.png)
+![mobile version](/README_images/mobileTechtest.png)
 
 ## Building Process
 
@@ -32,7 +33,7 @@ GET​​ ​​https://images-api.nasa.gov/search ​Params: ​​q
 
 ## How to run the App:
 
-After cloning the app using `git clone`\
+After cloning the app using `$git clone git@github.com:sgcook/tech-test-test.git`\
 Run:\
 `$npm install` to install dependencies\
 `$npm test` to test the app\

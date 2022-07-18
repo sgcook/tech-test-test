@@ -19,3 +19,16 @@ p {
   height: auto;
   width: auto;
 }
+
+@media only screen and (max-width: 808px) {
+  .search-results__images {
+    display: block;
+    max-width: 80%;
+    margin-top: 6vw;
+  }
+
+  .card-image {
+    max-width: 100%;
+    margin-bottom: 3vw;
+  }
+}
